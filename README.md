@@ -1,0 +1,2 @@
+# java-temirzhol
+Solo project
